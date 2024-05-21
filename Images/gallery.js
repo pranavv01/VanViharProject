@@ -18,7 +18,7 @@ const gallery = [
     {
         "title": "Tortoise",
         "description": "A peaceful path through a dense forest.",
-        "link": "https://example.com/images/forest-path.jpg"
+        "link": "Images/Turtoise.jpeg.jpg"
     },
     {
         "title": "Turtle",
