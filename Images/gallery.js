@@ -3,7 +3,7 @@ const gallery = [
     {
         "title": "Tiger",
         "description": "A majestic tiger prowling through the dense jungle.",
-        "link": "https://example.com/images/sunset-over-the-ocean.jpg"
+        "link": "https://github.com/pranavv01/VanViharProject/blob/main/Images/Tiger.jpeg.jpg"
     },
     {
         "title": "Lion",
